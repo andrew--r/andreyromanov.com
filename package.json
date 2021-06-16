@@ -26,7 +26,7 @@
     "husky": "6.0.0",
     "lint-staged": "11.0.0",
     "markdown-it": "12.0.6",
-    "postcss": "7.0.26",
+    "postcss": "7.0.36",
     "postcss-csso": "4.0.0",
     "postcss-easy-import": "3.0.0",
     "postcss-focus-visible": "4.0.0",
